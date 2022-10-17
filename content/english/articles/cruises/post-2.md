@@ -1,9 +1,11 @@
 ---
-title: "U.S. Travel Association Calls On CDC To Remove Cruise Restrictions"
-date: 2021-05-30T11:07:10+06:00
-image: "images/post/cr-2.jpg"
-description: ""
-categories: ["cruises", "news"]
+title: U.S. Travel Association Calls On CDC To Remove Cruise Restrictions
+date: 2021-05-30T05:07:10Z
+image: images/post/cr-2.jpg
+description:
+categories:
+  - cruises
+  - news
 draft: false
 ---
 # Heading
